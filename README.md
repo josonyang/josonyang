@@ -18,7 +18,4 @@ josonyang@outlook.com
 [![](https://visitcount.itsvg.in/api?id=josonyang&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p>
-  Type the following in the Run dialog: <kbd>cmd</kbd><br />Then click the OK
-  button.
-</p>
+
